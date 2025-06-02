@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DevOps Git & GitHub Practice Project
 
 This is a DevOps practice project to get hands-on with Git, GitHub, branching strategies, GitHub Actions, and CI/CD basics.
@@ -19,7 +19,3 @@ This is a DevOps practice project to get hands-on with Git, GitHub, branching st
 3. Create a new branch for your feature
 4. Commit and push changes
 5. Raise a Pull Request
-=======
-# -Project-1-DevOps-Git-GitHub-Practice
-Created a GitHub-based version-controlled CI/CD pipeline simulation project for a microservice-based application using Git best practices.
->>>>>>> abfae274594a2b7ba5c075667d66186f60c1b3f0
