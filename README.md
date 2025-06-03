@@ -21,7 +21,7 @@ This is a DevOps practice project to get hands-on with Git, GitHub, branching st
 
 
 
-#Do you want help in performing this devops project? follow below steps
+# Do you want help in performing this devops project? follow below steps
 
 
 # Project: DevOps Git & GitHub Practice
