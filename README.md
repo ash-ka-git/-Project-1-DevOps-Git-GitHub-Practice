@@ -1,4 +1,4 @@
-# DevOps Git & GitHub Practice Project.
+# DevOps Git & GitHub Practice Project..
 
 This is a DevOps practice project to get hands-on with Git, GitHub, branching strategies, GitHub Actions, and CI/CD basics.
 
